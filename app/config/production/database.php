@@ -11,5 +11,5 @@ return array(
             'username'  => 'root',
             'password'  => 'e28deNxkHp',
         ),
-
     ),
+);	
